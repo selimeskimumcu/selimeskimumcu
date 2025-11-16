@@ -20,7 +20,7 @@
 Java · Python · SQL · C#
 
 **Tools & IDEs:**  
-Eclipse · IntelliJ IDEA · VS Code · Git · MySQL
+Eclipse · IntelliJ IDEA · VS Code · Git · MySQL · PostgreSQL
 
 **Core Concepts:**  
 OOP · GUI Design · Data Management · REST APIs
