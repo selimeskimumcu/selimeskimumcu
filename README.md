@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Selim Eskimumcu
 
-<!--
-**selimeskimumcu/selimeskimumcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Development Student at **Yeditepe University**  
+💻 Passionate about **Java**, **Python**, and full-stack development  
+📍 Based in **Istanbul, Türkiye**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I’m Working On
+- 💻 Developing a **Computer Store Inventory Management System** using **Java Swing**  
+- 🧩 Building **Data Mining** projects focused on pattern recognition, correlation analysis, and clustering  
+- 📊 Working with **Python (Pandas, NumPy, Matplotlib, Scikit-learn)** to clean, visualize, and interpret real-world datasets  
+- 🧱 Strengthening my foundation in software development and data analytics  
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages:**  
+Java · Python · SQL · C#
+
+**Tools & IDEs:**  
+Eclipse · IntelliJ IDEA · VS Code · Git · MySQL
+
+**Core Concepts:**  
+OOP · GUI Design · Data Management · REST APIs
+
+---
+
+## 🚀 Goals  
+- 🔍 Build a strong foundation in **Data Mining**, **Machine Learning**, and **Statistical Analysis**  
+- 🧠 Apply data-driven thinking to solve real business and engineering problems  
+- 💼 Combine software engineering and data science to develop intelligent, scalable systems  
+- 🌍 Contribute to **open-source projects** and collaborate with developers & data enthusiasts  
+- 🚀 Gain real-world experience through internships in **data analytics** or **backend development**
+
+---
+
+## 📫 Connect With Me  
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/selimeskimumcu/)  
+📧 **Email:** selimeskimumcu@gmail.com  
+🐙 **GitHub:** [github.com/selimeskimumcu](https://github.com/selimeskimumcu)
+
+---
+
+⭐ *“Every bug is a lesson, every fix is growth.”*
